@@ -1,1 +1,9 @@
 Hi HOw is it going 
+
+Steps 1) create a repo folder
+Steps 1) Clone the repo from github
+Steps 1) Modify the repo by changing text or so
+Steps 1) git status
+Steps 1) git add
+Steps 1) git commit -m "Comments lmao"
+Steps 1) git push
